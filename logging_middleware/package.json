@@ -1,0 +1,12 @@
+{
+  "name": "@campus/logging-middleware",
+  "version": "1.0.0",
+  "description": "Structured logging middleware for Campus Notifications",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": ["src"],
+  "license": "MIT"
+}
